@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\bin\Debug\net8.0\HttpImages.exe
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\bin\Debug\net8.0\HttpImages.deps.json
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\bin\Debug\net8.0\HttpImages.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\bin\Debug\net8.0\HttpImages.dll
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\bin\Debug\net8.0\HttpImages.pdb
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.dll
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\refint\HttpImages.dll
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.pdb
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\ref\HttpImages.dll
