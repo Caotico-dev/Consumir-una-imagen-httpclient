@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImage
 C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.pdb
 C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.genruntimeconfig.cache
 C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\ref\HttpImages.dll
+C:\Users\User\OneDrive\Escritorio\Programacion\Practicas\Practica Http\HttpImages\HttpImages\obj\Debug\net8.0\HttpImages.sourcelink.json

@@ -7,7 +7,7 @@ class Program
     {
         string imageUrl = "https://picsum.photos/200/300";
 
-        string savepath = "C:\\Temp\\ima.jpg";
+        string savepath = "C:\\Temp\\imahh.jpg";
 
         if (!Directory.Exists(@"C:\Temp"))
         {
@@ -32,6 +32,8 @@ class Program
                 byte[] imageBytes = await response.Content.ReadAsByteArrayAsync();
 
                 await File.WriteAllBytesAsync(savepath, imageBytes);
+
+                Console.WriteLine(status.StatusCode); 
 
                 Console.WriteLine("Imagen guardada con exito!");
 

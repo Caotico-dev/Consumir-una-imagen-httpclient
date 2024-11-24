@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpImages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34192c77dda7b099ba135d8bfacc6b7d4eb2c83")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpImages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpImages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
